@@ -145,7 +145,7 @@ body{
 .readmore{
    color: #1A4870;
    cursor: pointer;
-   margin: 12px 0;
+   margin: 8px 0;
    text-transform: capitalize;
 }
 .item-section2 h2{
@@ -344,7 +344,7 @@ body{
 .section6 {
     height: 300px;
     margin: 120px 0;
-    background-image: url(../../../Downloads/nyc.jpg);
+    background-image: url(../Images/nyc.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
